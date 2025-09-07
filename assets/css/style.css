@@ -939,6 +939,8 @@ ol.steps li { margin-bottom: 10px; }
     position: relative;
     height: 200px;
     overflow: hidden;
+    background-color: #f8f9fa;
+    border-radius: var(--border-radius) var(--border-radius) 0 0;
 }
 
 .news-image img {
@@ -946,6 +948,10 @@ ol.steps li { margin-bottom: 10px; }
     height: 100%;
     object-fit: cover;
     transition: var(--transition);
+    display: block;
+    border-radius: var(--border-radius) var(--border-radius) 0 0;
+    background-color: #e9ecef;
+    min-height: 200px;
 }
 
 .news-card:hover .news-image img {
