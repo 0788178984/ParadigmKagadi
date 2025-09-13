@@ -1462,12 +1462,11 @@ ol.steps li { margin-bottom: 10px; }
 .partner-logo img {
     max-width: 100%;
     height: auto;
-    filter: grayscale(100%);
     transition: var(--transition);
 }
 
 .partner-logo:hover img {
-    filter: grayscale(0%);
+    transform: scale(1.05);
 }
 
 /* Staff Directory */
