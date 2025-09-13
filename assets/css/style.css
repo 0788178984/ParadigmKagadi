@@ -567,6 +567,52 @@ ul {
     line-height: 1.6;
 }
 
+/* Director's Message Mobile Layout */
+@media (max-width: 768px) {
+    .grid.two > div:first-child {
+        margin-bottom: 30px;
+    }
+    
+    .grid.two > div:first-child > div {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+    
+    .grid.two > div:first-child img {
+        width: 100% !important;
+        max-width: 300px !important;
+        height: 200px !important;
+        margin: 0 auto;
+        display: block;
+    }
+    
+    .grid.two > div:first-child > div > div {
+        text-align: center;
+    }
+    
+    .grid.two > div:first-child h2 {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    
+    .grid.two > div:first-child h3 {
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    
+    .grid.two > div:first-child p {
+        text-align: center;
+        line-height: 1.6;
+    }
+    
+    .grid.two > div:first-child .btn {
+        display: block;
+        margin: 15px auto 0;
+        width: fit-content;
+    }
+}
+
 /* Responsive Design for Contact Card */
 @media (max-width: 768px) {
     .contact-info-card {
