@@ -60,6 +60,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Auto-advance slides
     function startAutoSlide() {
+        // Advance every 5 seconds
         slideInterval = setInterval(nextSlide, 5000);
     }
     
