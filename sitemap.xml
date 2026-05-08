@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- Homepage -->
+    <url>
+        <loc>https://paradigm-institute.edu.ug/</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- Main Navigation Pages -->
+    <url>
+        <loc>https://paradigm-institute.edu.ug/about/</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <url>
+        <loc>https://paradigm-institute.edu.ug/academics/</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <url>
+        <loc>https://paradigm-institute.edu.ug/admissions/</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <url>
+        <loc>https://paradigm-institute.edu.ug/research/</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://paradigm-institute.edu.ug/news/</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://paradigm-institute.edu.ug/elearning/</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://paradigm-institute.edu.ug/contact/</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- About Section Pages -->
+    <url>
+        <loc>https://paradigm-institute.edu.ug/about/vision-mission.html</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://paradigm-institute.edu.ug/about/history.html</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://paradigm-institute.edu.ug/about/administration.html</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://paradigm-institute.edu.ug/about/organogram.html</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://paradigm-institute.edu.ug/about/policies.html</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://paradigm-institute.edu.ug/about/strategic-plans.html</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>quarterly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://paradigm-institute.edu.ug/about/anthem.html</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://paradigm-institute.edu.ug/about/administrative-offices.html</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <!-- Governance Pages -->
+    <url>
+        <loc>https://paradigm-institute.edu.ug/about/governance/chancellor.html</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://paradigm-institute.edu.ug/about/governance/chancellor-message.html</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://paradigm-institute.edu.ug/about/governance/vice-chancellor.html</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://paradigm-institute.edu.ug/about/governance/university-council.html</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>quarterly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://paradigm-institute.edu.ug/about/governance/university-senate.html</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>quarterly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://paradigm-institute.edu.ug/about/governance/university-management.html</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>quarterly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://paradigm-institute.edu.ug/about/governance/staff-directory.html</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <!-- Academics Pages -->
+    <url>
+        <loc>https://paradigm-institute.edu.ug/academics/programs.html</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>quarterly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://paradigm-institute.edu.ug/academics/calendar.html</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Admissions Pages -->
+    <url>
+        <loc>https://paradigm-institute.edu.ug/admissions/apply.html</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Admin Pages (lower priority) -->
+    <url>
+        <loc>https://paradigm-institute.edu.ug/admin/login.html</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>https://paradigm-institute.edu.ug/admin/index.html</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>https://paradigm-institute.edu.ug/admin/editor.html</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <!-- Special Pages -->
+    <url>
+        <loc>https://paradigm-institute.edu.ug/privacy-policy.html</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    <url>
+        <loc>https://paradigm-institute.edu.ug/terms-of-use.html</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    <!-- News and Events (Dynamic Content - Higher Frequency) -->
+    <url>
+        <loc>https://paradigm-institute.edu.ug/news/admission-2026.html</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://paradigm-institute.edu.ug/news/convocation-2026.html</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://paradigm-institute.edu.ug/news/research-grant-2026.html</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://paradigm-institute.edu.ug/news/new-faculty-2026.html</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://paradigm-institute.edu.ug/news/student-achievement-2026.html</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://paradigm-institute.edu.ug/events/career-fair-2026.html</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://paradigm-institute.edu.ug/events/alumni-meet.html</loc>
+        <lastmod>2026-05-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+</urlset>
